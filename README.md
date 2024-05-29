@@ -1,5 +1,7 @@
 job portal in Figma
 
+figma link : https://www.figma.com/design/ptzN6lt4bLzi1nxDPcMHs6/job-portal?node-id=0-1&t=LAcoAIb8Zsfkv3k5-0
+
 Home Page (Landing Page)
 
     Sticky Navbar: Navbar remains visible while scrolling.
@@ -32,6 +34,6 @@ Contact Us Page
 
     Contact Form: Input fields for name, email, message, etc.
     Contact Information: Address, phone number, and email.
-    Social Media Links: Links to social media profiles.
+    
 
-figma link :
+
